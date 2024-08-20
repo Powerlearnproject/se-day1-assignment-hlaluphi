@@ -30,6 +30,12 @@ Agile is a flexible methodology that is suitable for a Software with evolving re
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+- Software Developer: Their job is to write codes and create software applications.
+- Quality Assurance Engineer: Their Job is to design and executing test plans and find any issues or bugs. Their goal is to ensure the software meets high quality standards before it reaches users.
+- Project Manager:  Their job is to plan, organize and oversee the entire process from start to finish to make sure a software project stays on track.
+- System Architect: Their job is to design the overall structure and layout/architecture of a software system.
+- UI/UX Designer: They specialize in digital experience by creating beautiful and user-friendly interfaces for software applications.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
